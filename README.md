@@ -14,3 +14,6 @@ An AI-powered web application that predicts diseases based on user symptoms usin
 - HTML
 - CSS
 - Scikit-learn
+
+## Live Demo 
+- https://ai-medical-symptom-checker.onrender.com
